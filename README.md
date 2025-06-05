@@ -7,6 +7,7 @@ This repository contains all the source code, project files, and notes used thro
 ## 📦 How to Run
 
 1. **Clone the repository**  
-
+```bash
    git clone https://github.com/sudopath/FastAPI-Mastery-Build-Modern-APIs-with-Python.git
    cd FastAPI-Mastery-Build-Modern-APIs-with-Python
+```
